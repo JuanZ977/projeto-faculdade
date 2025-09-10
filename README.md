@@ -9,6 +9,4 @@ Demonstrar proatividade e engajamento através da integração entre LinkedIn e 
 - LinkedIn  
 - [Outras que você usou, se tiver]  
 
-## Como acessar  
-Este repositório contém a documentação do projeto.  
-Para mais informações, confira minha postagem no LinkedIn: [coloque o link da postagem aqui depois].  
+ 
